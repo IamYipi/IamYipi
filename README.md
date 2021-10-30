@@ -1,4 +1,4 @@
-###<img src ="https://i.stack.imgur.com/e8nZC.gif" width=50> Hi there, im Javier <img src="https://media.tenor.com/images/e18de738e02a96ebacd4127a2f07a1cc/tenor.gif" width="50">
+### <img src ="https://i.stack.imgur.com/e8nZC.gif" width=50> Hi there, im Javier <img src="https://media.tenor.com/images/e18de738e02a96ebacd4127a2f07a1cc/tenor.gif" width="50">
 ## 🧙🏻‍♂️ ABOUT ME
 ### *Computer Engineering Student at [USAL](https://usal.es/).* 📚
 ## Tecnologies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
