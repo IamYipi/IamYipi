@@ -2,7 +2,7 @@
 ## 🧙🏻‍♂️ ABOUT ME
 ### *Computer Engineering Student at [USAL](https://usal.es/).* 📚
 ## Languages
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamYipi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamYipi&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    <br>
 ### Main 
 
