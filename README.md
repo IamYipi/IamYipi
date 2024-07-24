@@ -1,4 +1,4 @@
-# <img src ="https://i.stack.imgur.com/e8nZC.gif" width=50> Hi there, I am Javier <img src="https://media.tenor.com/images/e18de738e02a96ebacd4127a2f07a1cc/tenor.gif" width="50">
+# <img src ="https://i.stack.imgur.com/e8nZC.gif" width=50>Hi there, I am Javier <img src="https://media.tenor.com/images/e18de738e02a96ebacd4127a2f07a1cc/tenor.gif" width="50">
 ## 🧙🏻‍♂️ ABOUT ME
 ### *Computer Engineering Graduated at [USAL](https://usal.es/)* 📚
 ### *MASTER'S DEGREE IN INTELLIGENT SYSTEMS at [USAL](https://usal.es/)* 📚📚
