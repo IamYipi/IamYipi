@@ -2,7 +2,8 @@
 ## 🧙🏻‍♂️ ABOUT ME
 ### *Computer Engineering Graduated at [USAL](https://usal.es/)* 📚
 ### *MASTER'S DEGREE IN INTELLIGENT SYSTEMS at [USAL](https://usal.es/)* 📚📚
-#### *Senior Researcher at [Air Institute](https://air-institute.com/)* 👨🏼‍💻👨🏼‍💻
+#### ⏳*PhD in Computer Engineering*⌛
+#### *Senior Researcher at [BISITE](https://bisite.usal.es/es)* 👨🏼‍💻👨🏼‍💻
 ##### "My research areas are cybersecurity and AI." 🤖
 ## Languages
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamYipi&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
