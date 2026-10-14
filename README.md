@@ -5,6 +5,10 @@
 #### ⏳*PhD in Computer Engineering*⌛
 #### *Senior Researcher at [BISITE](https://bisite.usal.es/es)* 👨🏼‍💻👨🏼‍💻
 ##### "My research areas are cybersecurity and AI." 🤖
+## 🕹️ PORTFOLIO
+[![Portfolio](https://img.shields.io/badge/PRESS_START-iamyipi.github.io-00d992?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=07100c)](https://iamyipi.github.io)
+
+R&D projects, languages and open-source contributions, 16-bit style: **[iamyipi.github.io](https://iamyipi.github.io)**
 ## Languages
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamYipi&layout=compact&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    <br>
